@@ -12,12 +12,9 @@ A 9th line of text.
 A 10th lin of text.
 An 11th line of text.
 
-<<<<<<< HEAD
 =======
 
 
 This is my new idea from my second branch.  Let's see what it does...
 Here's another edit for the 2nd branch.
 >>>>>>> master
-=======
->>>>>>> parent of b1c227b... Revert "Added the 11th line of text"
